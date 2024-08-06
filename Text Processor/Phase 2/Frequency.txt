@@ -1,0 +1,37 @@
+Total number of words in paragraph number 1 are : 10
+Total number of sentences in paragraph number 1 are : 2
+Sentence number 1 : 
+Total number of characters in word 1 are : 2
+Total number of characters in word 2 are : 4
+Total number of characters in word 3 are : 2
+Total number of characters in word 4 are : 5
+Total number of characters in word 5 are : 7
+Sentence number 2 : 
+Total number of characters in word 1 are : 1
+Total number of characters in word 2 are : 2
+Total number of characters in word 3 are : 0
+Total number of characters in word 4 are : 0
+Total number of characters in word 5 are : 0
+Total number of characters in word 6 are : 4
+Total number of characters in word 7 are : 3
+
+Total number of words in paragraph number 2 are : 7
+Total number of sentences in paragraph number 2 are : 2
+Sentence number 1 : 
+Total number of characters in word 1 are : 1
+Total number of characters in word 2 are : 4
+Total number of characters in word 3 are : 2
+Total number of characters in word 4 are : 6
+Sentence number 2 : 
+Total number of characters in word 1 are : 1
+Total number of characters in word 2 are : 4
+Total number of characters in word 3 are : 8
+
+Total number of words in paragraph number 3 are : 4
+Total number of sentences in paragraph number 3 are : 1
+Sentence number 1 : 
+Total number of characters in word 1 are : 1
+Total number of characters in word 2 are : 5
+Total number of characters in word 3 are : 2
+Total number of characters in word 4 are : 3
+
