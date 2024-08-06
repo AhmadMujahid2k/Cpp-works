@@ -1,0 +1,35 @@
+Total paragraphs in file : 3
+
+Total sentences in Paragraph number 1 : 2
+Total words in sentence number 1 : 5
+Total characters in word number 1: 2
+Total characters in word number 2: 4
+Total characters in word number 3: 2
+Total characters in word number 4: 5
+Total characters in word number 5: 7
+Total words in sentence number 2 : 5
+Total characters in word number 1 : 1
+Total characters in word number 2 : 2
+Total characters in word number 3 : 0
+Total characters in word number 4 : 4
+Total characters in word number 5 : 3
+Total words in Paragraph number 1 :10
+Total sentences in Paragraph number 2 : 2
+Total words in sentence number 1 : 4
+Total characters in word number 1: 1
+Total characters in word number 2: 4
+Total characters in word number 3: 2
+Total characters in word number 4: 6
+Total words in sentence number 2 : 3
+Total characters in word number 1 : 1
+Total characters in word number 2 : 4
+Total characters in word number 3 : 8
+Total words in Paragraph number 2 :7
+Total sentences in Paragraph number 3 : 1
+Total words in sentence number 1 : 4
+Total characters in word number 1: 1
+Total characters in word number 2: 5
+Total characters in word number 3: 2
+Total characters in word number 4: 3
+Total words in Paragraph number 3 :4
+Total sentences in file : 5
